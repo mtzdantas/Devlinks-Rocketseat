@@ -1,11 +1,5 @@
 
 .vscode/extensions.json
 .vscode/settings.json
-assets/avatar-light.png
-assets/avatar.png
-assets/bg-desktop-light.jpg
-assets/bg-desktop.jpg
-assets/bg-mobile-light.jpg
-assets/bg-mobile.jpg
-assets/MoonStars.svg
-assets/Sun.svg
+*.png
+*.jpg
