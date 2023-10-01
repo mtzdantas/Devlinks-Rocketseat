@@ -10,3 +10,11 @@ body {
   margin: auto;
   
 }
+
+#profile {
+  text-align: center;
+}
+
+#profile img {
+  width: 112px;
+}
