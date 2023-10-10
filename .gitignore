@@ -1,6 +1,7 @@
 
 .vscode/extensions.json
 .vscode/settings.json
-*.png
 *.jpg
 *.svg
+assets/avatar.png
+assets/avatar-light.png
